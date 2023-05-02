@@ -1,0 +1,19 @@
+body {
+    padding-top: 5rem;
+  }
+
+  form.add {
+    padding-bottom: 10px;
+  }
+
+  .pull-right {
+    float: right;
+  }
+
+  .action > .btn {
+    padding: 1px 7px 1px;
+  }
+
+  .oi {
+    font-size: small;
+  }
